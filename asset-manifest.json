@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.eef33757.chunk.css",
-    "main.js": "/static/js/main.e4cffc57.chunk.js",
-    "main.js.map": "/static/js/main.e4cffc57.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.52738377.chunk.css": "/static/css/2.52738377.chunk.css",
-    "static/js/2.cfaae486.chunk.js": "/static/js/2.cfaae486.chunk.js",
-    "static/js/2.cfaae486.chunk.js.map": "/static/js/2.cfaae486.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.264edfc5da01e9878159e4903639c39a.js": "/precache-manifest.264edfc5da01e9878159e4903639c39a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/static/css/2.52738377.chunk.css.map",
-    "static/css/main.eef33757.chunk.css.map": "/static/css/main.eef33757.chunk.css.map"
+    "main.css": "/react-components-chris/static/css/main.eef33757.chunk.css",
+    "main.js": "/react-components-chris/static/js/main.a45e8811.chunk.js",
+    "main.js.map": "/react-components-chris/static/js/main.a45e8811.chunk.js.map",
+    "runtime~main.js": "/react-components-chris/static/js/runtime~main.525210ab.js",
+    "runtime~main.js.map": "/react-components-chris/static/js/runtime~main.525210ab.js.map",
+    "static/css/2.52738377.chunk.css": "/react-components-chris/static/css/2.52738377.chunk.css",
+    "static/js/2.cfaae486.chunk.js": "/react-components-chris/static/js/2.cfaae486.chunk.js",
+    "static/js/2.cfaae486.chunk.js.map": "/react-components-chris/static/js/2.cfaae486.chunk.js.map",
+    "index.html": "/react-components-chris/index.html",
+    "precache-manifest.7d8ba7bf3d525993c86c2d65a4e6cefd.js": "/react-components-chris/precache-manifest.7d8ba7bf3d525993c86c2d65a4e6cefd.js",
+    "service-worker.js": "/react-components-chris/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/react-components-chris/static/css/2.52738377.chunk.css.map",
+    "static/css/main.eef33757.chunk.css.map": "/react-components-chris/static/css/main.eef33757.chunk.css.map"
   }
 }
